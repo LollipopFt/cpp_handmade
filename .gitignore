@@ -33,3 +33,5 @@
 
 *.sublime-project
 *.sublime-workspace
+*.ilk
+*.pdb
